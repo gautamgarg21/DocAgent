@@ -1,15 +1,6 @@
 <div align="center">
-  <h1><a href="https://pypi.org/project/doclify/">Doclify</a></h1>
+  <h1><a href="https://pypi.org/project/doclify/">DocAgent</a></h1>
   <p><i>A hands-on exploration of advanced context engineering — built as an open source AI agent for documentation.</i></p>
-
-  [![PyPI Version](https://img.shields.io/pypi/v/doclify?style=flat&color=blue)](https://pypi.org/project/doclify/)
-  [![PyPI Downloads](https://img.shields.io/pypi/dm/doclify?style=flat&color=blue)](https://pypi.org/project/doclify/)
-  [![GitHub Stars](https://img.shields.io/github/stars/KalyanM45/Doclify?style=flat&color=ffd700)](https://github.com/KalyanM45/Doclify/stargazers)
-  [![GitHub Issues](https://img.shields.io/github/issues/KalyanM45/Doclify?style=flat&color=red)](https://github.com/KalyanM45/Doclify/issues)
-  [![GitHub Forks](https://img.shields.io/github/forks/KalyanM45/Doclify?style=flat&color=green)](https://github.com/KalyanM45/Doclify/network/members)
-  [![GitHub Discussions](https://img.shields.io/github/discussions/KalyanM45/Doclify?style=flat&color=purple)](https://github.com/KalyanM45/Doclify/discussions)
-  [![GitHub License](https://img.shields.io/github/license/KalyanM45/Doclify?style=flat&color=blue)](https://github.com/KalyanM45/Doclify/blob/main/LICENSE)
-</div>
 
 ---
 
